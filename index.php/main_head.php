@@ -14,6 +14,40 @@
 <link href="../templates/sparky_framework/images/icons/icon180x180.png" rel="apple-touch-icon" />
 <link href="../templates/sparky_framework/images/icons/icon192x192.png" rel="icon" sizes="192x192" />
 
+
+
+<!---
+ Fav and Touch Icons -->
+
+<!-- CSS Plugins -
+<link rel="stylesheet" type="text/css" href="../bootstrap/css/bootstrap.min.css" media="screen">	
+<link href="../css/animate.css" rel="stylesheet">
+<link href="../css/main.css" rel="stylesheet">
+<link href="../css/component.css" rel="stylesheet">
+<link href="../css/slick.css" rel="stylesheet">-->
+
+
+<link rel="stylesheet" type="text/css" href="../bootstrap/css/bootstrap.min.css" media="screen">
+<link href="../css/animate.css" rel="stylesheet">
+
+<!-- CSS Font Icons -->
+<link rel="stylesheet" href="../icons/ionicons/css/ionicons.css">
+<link rel="stylesheet" href="../icons/font-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" href="../icons/pe-icon-7-stroke/css/pe-icon-7-stroke.css">
+<link rel="stylesheet" href="../icons/simple-line-icons/css/simple-line-icons.css">
+<link rel="stylesheet" href="../icons/rivolicons/style.css">
+<link rel="stylesheet" href="../icons/themify-icons/themify-icons.css">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<link href='https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic,300italic,300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300italic,300,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
+<link href="../css/style.css" rel="stylesheet">
+
+<link href="../css/color-02.css" rel="stylesheet">
+
+
+
+
 <base  />
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="author" content="Super User" />

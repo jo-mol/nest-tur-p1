@@ -40,7 +40,7 @@ if($search_loc)
 	$sqq.=" AND ((MATCH (b.t_title, b.plocs, b.t_startng_loc, b.locationmap, b.t_ner_loc, b.t_coverd_locs) AGAINST ('+$search_loc*' IN BOOLEAN MODE)))";
 }
  */
-$sqq.=" order by rand() limit 20";
+$sqq.=" order by rand() limit 5 offset 1";
 //echo $sqq;
 //exit;
 		$ress1=mysqli_query($conn,$sqq);	

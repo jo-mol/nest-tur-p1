@@ -1,4 +1,5 @@
-		
+
+
 <?php
 include "connection.php";
 include_once("main_head.php");
@@ -52,18 +53,24 @@ $id = $_REQUEST['code'];
          
 							
 							<div class="sparky_cell mp_advert1 sparkle3">
+<div class="detail-row">
 					<div class="row">
 
 <?php
 	mysqli_data_seek($ress1,0);
-	$sqlins="SELECT t_overview FROM tour_package where t_id='".$id."'";
-	echo $sqlins;
+	$query="SELECT t_overview FROM tour_package where t_id='".$id."'";
+
+	$result = mysqli_query($conn,$query);
+	while($row = mysqli_fetch_array($result))
+{
+echo "<p>" . $row['t_overview'] . "</p>";
+}
 ?>
 	
 
 
 <?php  ?>
-			</div> 	
+			</div>
      </div>           		
                         </div>
     </div>
