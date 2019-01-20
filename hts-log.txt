@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 18 Dec 2018 01:21:16 at http://demo.hot-themes.com/joomla/paradise/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://demo.hot-themes.com/joomla/paradise/ -O1 "C:\Users\user\Desktop\tourism\tourism1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:21:17	Warning: 	Note: due to demo.hot-themes.com remote robots.txt rules, links beginning with these path will be forbidden: /wordpress/responsive/wp-content/themes/wp_hot_responsive (see in the options to disable this)
+01:27:58	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.hot-themes.com/joomla/paradise/images/gallery/thumbs/thumb_gallery_image03.jpg (from demo.hot-themes.com/joomla/paradise/index.php/gallery)
+01:27:58	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.hot-themes.com/joomla/paradise/images/gallery/thumbs/thumb_gallery_image04.jpg (from demo.hot-themes.com/joomla/paradise/index.php/gallery)
+01:27:58	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.hot-themes.com/joomla/paradise/images/gallery/thumbs/thumb_gallery_image08.jpg (from demo.hot-themes.com/joomla/paradise/index.php/gallery)
+01:28:36	Warning: 	Retry after error -4 (No data (connection closed)) at link demo.hot-themes.com/joomla/paradise/templates/sparky_framework/css/fonts/fontawesome-webfont.ttf?v=4.7.0 (from demo.hot-themes.com/joomla/paradise/templates/sparky_framework/css/icons/font-awesome.min.css)
+01:28:37	Error: 	"Not Found" (404) at link demo.hot-themes.com/joomla/paradise/modules/mod_hot_slicebox/images/options.png (from demo.hot-themes.com/joomla/paradise/modules/mod_hot_slicebox/tmpl/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 26 seconds : 484 links scanned, 478 files written (9106305 bytes overall) [6562605 bytes received at 14714 bytes/sec], 3805437 bytes transferred using HTTP compression in 180 files, ratio 28%, 2.8 requests per connection
+(1 errors, 5 warnings, 0 messages)

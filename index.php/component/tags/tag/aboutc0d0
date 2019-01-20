@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Hot Paradise</title>
+		<description><![CDATA[]]></description>
+		<link>http://demo.hot-themes.com/joomla/paradise/index.php/component/tags/tag/</link>
+		<lastBuildDate>Tue, 18 Dec 2018 06:27:50 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://demo.hot-themes.com/joomla/paradise/index.php/component/tags/tag/about?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Hot Paradise</title>
+			<link>http://demo.hot-themes.com/joomla/paradise/index.php/about-us</link>
+			<guid isPermaLink="true">http://demo.hot-themes.com/joomla/paradise/index.php/about-us</guid>
+			<description><![CDATA[<p>While we are spending hours in our offices, nothing inspire us more than upcoming summer holidays. This inspiration led us to create another template suitable for hotels and other business websites that offer services for tourists.</p>
+<ul class="checklist">
+<li>Responsive template, based on clean HTML5/CSS3 code, and powered by <a href="http://www.hotjoomlatemplates.com/sparky-joomla" target="_blank">Sparky Framework</a> for Joomla.</li>
+<li>CSS3 and jQuery based animations welcomes visitors of your site.</li>
+<li>5 pre-defined color styles. All colors are easily customisable from the Sparky options (infinite color options).</li>
+<li>Customisation of the template's layout and adding/removing module positions is easy. It's powered by Sparky's drag and drop Layout Editor. Change layout and element's dimensions easily whenever you need.</li>
+<li>We included several responsive Joomla modules with this template. <a href="https://www.hotjoomlatemplates.com/joomla-extensions/334-hot-swipe-carousel-touch-friendly-carousel">Hot Swipe Carousel</a>, <a href="https://www.hotjoomlatemplates.com/free-joomla-extensions/314-free-responsive-slider-hot-slicebox">Hot Slicebox</a>, <a href="https://www.hotjoomlatemplates.com/joomla-extensions/327-hot-responsive-lightbox">Hot Responsive Lightbox</a>, <a href="https://www.hotjoomlatemplates.com/joomla-extensions/109-joomla-google-maps-plugin-and-module-hot-maps">Hot Maps</a> and <a href="https://www.hotjoomlatemplates.com/joomla-extensions/333-hot-counters">Hot Counters</a> module. All these modules are included with this template without additional fees (you save $15 per commercial module).</li>
+<li>Retina ready</li>
+<li>HotStart (SQL dump) available with both single purchase or membership plan. It copies template with all extensions and demo pages easily.</li>
+<li>Unlimited number of module positions can be added easily within Layout Editor of Sparky Framework, if needed.</li>
+<li>PSD source file and fonts are included.</li>
+<li>Total control of all menus through the framework. You can set functionalities and style of all your menus and drop them directly into the layout. Top menu with drop-down sub-levels is included. The top menu is converted to a button for easier navigation on the mobile devices.</li>
+<li>This template has been tested with Chrome, Edge, Firefox, IE9+, Opera and Safari browsers on PC and Mac computers. It's also tested on iOS and Android mobile devices.</li>
+<li>Support for RTL (right-to-left) languages.</li>
+</ul>]]></description>
+			<category>Hot Paradise</category>
+			<pubDate>Tue, 12 Apr 2016 12:41:00 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

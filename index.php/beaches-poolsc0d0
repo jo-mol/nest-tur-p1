@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Beaches &amp; Pools</title>
+		<description><![CDATA[]]></description>
+		<link>http://demo.hot-themes.com/joomla/paradise/index.php/beaches-pools</link>
+		<lastBuildDate>Tue, 18 Dec 2018 06:24:49 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://demo.hot-themes.com/joomla/paradise/index.php/beaches-pools?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Organized Beach</title>
+			<link>http://demo.hot-themes.com/joomla/paradise/index.php/organized-beach</link>
+			<guid isPermaLink="true">http://demo.hot-themes.com/joomla/paradise/index.php/organized-beach</guid>
+			<description><![CDATA[<p><img src="http://demo.hot-themes.com/joomla/paradise/images/blog/beach.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+]]></description>
+			<category>Beaches &amp; Pools</category>
+			<pubDate>Thu, 03 Mar 2016 09:52:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Private Non-organized Beaches</title>
+			<link>http://demo.hot-themes.com/joomla/paradise/index.php/private-beaches</link>
+			<guid isPermaLink="true">http://demo.hot-themes.com/joomla/paradise/index.php/private-beaches</guid>
+			<description><![CDATA[<p><img src="http://demo.hot-themes.com/joomla/paradise/images/blog/cocktail.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+]]></description>
+			<category>Beaches &amp; Pools</category>
+			<pubDate>Thu, 03 Mar 2016 09:52:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>&quot;Aqualandia&quot; Park</title>
+			<link>http://demo.hot-themes.com/joomla/paradise/index.php/aqualandia-park</link>
+			<guid isPermaLink="true">http://demo.hot-themes.com/joomla/paradise/index.php/aqualandia-park</guid>
+			<description><![CDATA[<p><img src="http://demo.hot-themes.com/joomla/paradise/images/blog/aqua_park.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+]]></description>
+			<category>Beaches &amp; Pools</category>
+			<pubDate>Thu, 03 Mar 2016 09:52:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Classic Pools</title>
+			<link>http://demo.hot-themes.com/joomla/paradise/index.php/classic-pools</link>
+			<guid isPermaLink="true">http://demo.hot-themes.com/joomla/paradise/index.php/classic-pools</guid>
+			<description><![CDATA[<p><img src="http://demo.hot-themes.com/joomla/paradise/images/blog/water.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+]]></description>
+			<category>Beaches &amp; Pools</category>
+			<pubDate>Thu, 03 Mar 2016 09:52:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Pools For Children</title>
+			<link>http://demo.hot-themes.com/joomla/paradise/index.php/pools-for-children</link>
+			<guid isPermaLink="true">http://demo.hot-themes.com/joomla/paradise/index.php/pools-for-children</guid>
+			<description><![CDATA[<p><img src="http://demo.hot-themes.com/joomla/paradise/images/blog/aqua_park.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+]]></description>
+			<category>Beaches &amp; Pools</category>
+			<pubDate>Thu, 03 Mar 2016 09:52:00 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

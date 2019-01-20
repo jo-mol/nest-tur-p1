@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demo.hot-themes.com	TRUE	/	FALSE	1999999999	dab63cf5b427e204e858fc5d2cac5fda	f1f04606d758fbdeec63161a6a9dee8c
+demo.hot-themes.com	TRUE	/	FALSE	1999999999	Style	4
+

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Hot Paradise</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://demo.hot-themes.com"/>
+	<id>http://demo.hot-themes.com/joomla/paradise/index.php/component/tags/tag/demo</id>
+	<updated>2018-12-18T06:28:16+00:00</updated>
+	<author>
+		<name>Hot Paradise</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://demo.hot-themes.com/joomla/paradise/index.php/component/tags/tag/demo?format=feed&amp;type=atom"/>
+	<entry>
+		<title>&quot;Aqualandia&quot; Park</title>
+		<link rel="alternate" type="text/html" href="http://demo.hot-themes.com/joomla/paradise/index.php/aqualandia-park"/>
+		<published>2016-03-03T09:52:00+00:00</published>
+		<updated>2016-03-03T09:52:00+00:00</updated>
+		<id>http://demo.hot-themes.com/joomla/paradise/index.php/aqualandia-park</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</content>
+		<category term="&quot;Aqualandia&quot; Park" />
+	</entry>
+	<entry>
+		<title>99 Exotic Coctails</title>
+		<link rel="alternate" type="text/html" href="http://demo.hot-themes.com/joomla/paradise/index.php/99-exotic-coctails"/>
+		<published>2016-03-03T09:52:00+00:00</published>
+		<updated>2016-03-03T09:52:00+00:00</updated>
+		<id>http://demo.hot-themes.com/joomla/paradise/index.php/99-exotic-coctails</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</content>
+		<category term="99 Exotic Coctails" />
+	</entry>
+	<entry>
+		<title>A La Cart Restaurants</title>
+		<link rel="alternate" type="text/html" href="http://demo.hot-themes.com/joomla/paradise/index.php/a-la-cart-restaurants"/>
+		<published>2016-03-03T09:52:00+00:00</published>
+		<updated>2016-03-03T09:52:00+00:00</updated>
+		<id>http://demo.hot-themes.com/joomla/paradise/index.php/a-la-cart-restaurants</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</content>
+		<category term="A La Cart Restaurants" />
+	</entry>
+	<entry>
+		<title>Aqualandia Free Tickets</title>
+		<link rel="alternate" type="text/html" href="http://demo.hot-themes.com/joomla/paradise/index.php/38-promotions/178-aqualandia-free-tickets"/>
+		<published>2016-03-03T09:52:00+00:00</published>
+		<updated>2016-03-03T09:52:00+00:00</updated>
+		<id>http://demo.hot-themes.com/joomla/paradise/index.php/38-promotions/178-aqualandia-free-tickets</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/promotions/aqua_park.jpg&quot; alt=&quot;Aqua Park&quot;/&gt;Iste asperiores suscipit, consequatur debitis animi.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/promotions/aqua_park.jpg&quot; alt=&quot;Aqua Park&quot;/&gt;Iste asperiores suscipit, consequatur debitis animi.&lt;/p&gt;
+</content>
+		<category term="Aqualandia Free Tickets" />
+	</entry>
+	<entry>
+		<title>Beach Volley</title>
+		<link rel="alternate" type="text/html" href="http://demo.hot-themes.com/joomla/paradise/index.php/beach-volley"/>
+		<published>2016-03-03T09:52:00+00:00</published>
+		<updated>2016-03-03T09:52:00+00:00</updated>
+		<id>http://demo.hot-themes.com/joomla/paradise/index.php/beach-volley</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</content>
+		<category term="Beach Volley" />
+	</entry>
+	<entry>
+		<title>Beach Volley</title>
+		<link rel="alternate" type="text/html" href="http://demo.hot-themes.com/joomla/paradise/index.php/blog/180-beach-volley"/>
+		<published>2016-03-03T09:52:00+00:00</published>
+		<updated>2016-03-03T09:52:00+00:00</updated>
+		<id>http://demo.hot-themes.com/joomla/paradise/index.php/blog/180-beach-volley</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</content>
+		<category term="Beach Volley" />
+	</entry>
+	<entry>
+		<title>Billiard &amp; Snooker Tables</title>
+		<link rel="alternate" type="text/html" href="http://demo.hot-themes.com/joomla/paradise/index.php/billiard-snooker-tables"/>
+		<published>2016-03-03T09:52:00+00:00</published>
+		<updated>2016-03-03T09:52:00+00:00</updated>
+		<id>http://demo.hot-themes.com/joomla/paradise/index.php/billiard-snooker-tables</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</content>
+		<category term="Billiard &amp; Snooker Tables" />
+	</entry>
+	<entry>
+		<title>Chinese Restaurant</title>
+		<link rel="alternate" type="text/html" href="http://demo.hot-themes.com/joomla/paradise/index.php/chinese-restaurant"/>
+		<published>2016-03-03T09:52:00+00:00</published>
+		<updated>2016-03-03T09:52:00+00:00</updated>
+		<id>http://demo.hot-themes.com/joomla/paradise/index.php/chinese-restaurant</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</content>
+		<category term="Chinese Restaurant" />
+	</entry>
+	<entry>
+		<title>Classic Pools</title>
+		<link rel="alternate" type="text/html" href="http://demo.hot-themes.com/joomla/paradise/index.php/classic-pools"/>
+		<published>2016-03-03T09:52:00+00:00</published>
+		<updated>2016-03-03T09:52:00+00:00</updated>
+		<id>http://demo.hot-themes.com/joomla/paradise/index.php/classic-pools</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</content>
+		<category term="Classic Pools" />
+	</entry>
+	<entry>
+		<title>Darts Tournments</title>
+		<link rel="alternate" type="text/html" href="http://demo.hot-themes.com/joomla/paradise/index.php/darts-tournments"/>
+		<published>2016-03-03T09:52:00+00:00</published>
+		<updated>2016-03-03T09:52:00+00:00</updated>
+		<id>http://demo.hot-themes.com/joomla/paradise/index.php/darts-tournments</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</content>
+		<category term="Darts Tournments" />
+	</entry>
+</feed>

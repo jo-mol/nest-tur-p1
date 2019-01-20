@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Sport Activities</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://demo.hot-themes.com"/>
+	<id>http://demo.hot-themes.com/joomla/paradise/index.php/sport-activities</id>
+	<updated>2018-12-18T06:25:18+00:00</updated>
+	<author>
+		<name>Hot Paradise</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://demo.hot-themes.com/joomla/paradise/index.php/sport-activities?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Beach Volley</title>
+		<link rel="alternate" type="text/html" href="http://demo.hot-themes.com/joomla/paradise/index.php/beach-volley"/>
+		<published>2016-03-03T09:52:00+00:00</published>
+		<updated>2016-03-03T09:52:00+00:00</updated>
+		<id>http://demo.hot-themes.com/joomla/paradise/index.php/beach-volley</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/blog/beach_volley.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/blog/beach_volley.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</content>
+		<category term="Sport Activities" />
+	</entry>
+	<entry>
+		<title>Scuba Diving School</title>
+		<link rel="alternate" type="text/html" href="http://demo.hot-themes.com/joomla/paradise/index.php/scuba-diving-school"/>
+		<published>2016-03-03T09:52:00+00:00</published>
+		<updated>2016-03-03T09:52:00+00:00</updated>
+		<id>http://demo.hot-themes.com/joomla/paradise/index.php/scuba-diving-school</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/blog/scuba_diving.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/blog/scuba_diving.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</content>
+		<category term="Sport Activities" />
+	</entry>
+	<entry>
+		<title>Swimming &amp; Deep Diving</title>
+		<link rel="alternate" type="text/html" href="http://demo.hot-themes.com/joomla/paradise/index.php/swimming-deep-diving"/>
+		<published>2016-03-03T09:52:00+00:00</published>
+		<updated>2016-03-03T09:52:00+00:00</updated>
+		<id>http://demo.hot-themes.com/joomla/paradise/index.php/swimming-deep-diving</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/blog/water.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/blog/water.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</content>
+		<category term="Sport Activities" />
+	</entry>
+	<entry>
+		<title>Tennis Courts &amp; Equippment</title>
+		<link rel="alternate" type="text/html" href="http://demo.hot-themes.com/joomla/paradise/index.php/tennis-courts-equippment"/>
+		<published>2016-03-03T09:52:00+00:00</published>
+		<updated>2016-03-03T09:52:00+00:00</updated>
+		<id>http://demo.hot-themes.com/joomla/paradise/index.php/tennis-courts-equippment</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/blog/tennis.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/blog/tennis.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</content>
+		<category term="Sport Activities" />
+	</entry>
+	<entry>
+		<title>Billiard &amp; Snooker Tables</title>
+		<link rel="alternate" type="text/html" href="http://demo.hot-themes.com/joomla/paradise/index.php/billiard-snooker-tables"/>
+		<published>2016-03-03T09:52:00+00:00</published>
+		<updated>2016-03-03T09:52:00+00:00</updated>
+		<id>http://demo.hot-themes.com/joomla/paradise/index.php/billiard-snooker-tables</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/blog/billiard.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/blog/billiard.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</content>
+		<category term="Sport Activities" />
+	</entry>
+	<entry>
+		<title>Darts Tournments</title>
+		<link rel="alternate" type="text/html" href="http://demo.hot-themes.com/joomla/paradise/index.php/darts-tournments"/>
+		<published>2016-03-03T09:52:00+00:00</published>
+		<updated>2016-03-03T09:52:00+00:00</updated>
+		<id>http://demo.hot-themes.com/joomla/paradise/index.php/darts-tournments</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/blog/darts.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/blog/darts.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</content>
+		<category term="Sport Activities" />
+	</entry>
+</feed>

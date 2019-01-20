@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Sport Activities</title>
+		<description><![CDATA[]]></description>
+		<link>http://demo.hot-themes.com/joomla/paradise/index.php/sport-activities</link>
+		<lastBuildDate>Tue, 18 Dec 2018 06:25:16 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://demo.hot-themes.com/joomla/paradise/index.php/sport-activities?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Beach Volley</title>
+			<link>http://demo.hot-themes.com/joomla/paradise/index.php/beach-volley</link>
+			<guid isPermaLink="true">http://demo.hot-themes.com/joomla/paradise/index.php/beach-volley</guid>
+			<description><![CDATA[<p><img src="http://demo.hot-themes.com/joomla/paradise/images/blog/beach_volley.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+]]></description>
+			<category>Sport Activities</category>
+			<pubDate>Thu, 03 Mar 2016 09:52:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Scuba Diving School</title>
+			<link>http://demo.hot-themes.com/joomla/paradise/index.php/scuba-diving-school</link>
+			<guid isPermaLink="true">http://demo.hot-themes.com/joomla/paradise/index.php/scuba-diving-school</guid>
+			<description><![CDATA[<p><img src="http://demo.hot-themes.com/joomla/paradise/images/blog/scuba_diving.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+]]></description>
+			<category>Sport Activities</category>
+			<pubDate>Thu, 03 Mar 2016 09:52:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Swimming &amp; Deep Diving</title>
+			<link>http://demo.hot-themes.com/joomla/paradise/index.php/swimming-deep-diving</link>
+			<guid isPermaLink="true">http://demo.hot-themes.com/joomla/paradise/index.php/swimming-deep-diving</guid>
+			<description><![CDATA[<p><img src="http://demo.hot-themes.com/joomla/paradise/images/blog/water.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+]]></description>
+			<category>Sport Activities</category>
+			<pubDate>Thu, 03 Mar 2016 09:52:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Tennis Courts &amp; Equippment</title>
+			<link>http://demo.hot-themes.com/joomla/paradise/index.php/tennis-courts-equippment</link>
+			<guid isPermaLink="true">http://demo.hot-themes.com/joomla/paradise/index.php/tennis-courts-equippment</guid>
+			<description><![CDATA[<p><img src="http://demo.hot-themes.com/joomla/paradise/images/blog/tennis.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+]]></description>
+			<category>Sport Activities</category>
+			<pubDate>Thu, 03 Mar 2016 09:52:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Billiard &amp; Snooker Tables</title>
+			<link>http://demo.hot-themes.com/joomla/paradise/index.php/billiard-snooker-tables</link>
+			<guid isPermaLink="true">http://demo.hot-themes.com/joomla/paradise/index.php/billiard-snooker-tables</guid>
+			<description><![CDATA[<p><img src="http://demo.hot-themes.com/joomla/paradise/images/blog/billiard.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+]]></description>
+			<category>Sport Activities</category>
+			<pubDate>Thu, 03 Mar 2016 09:52:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Darts Tournments</title>
+			<link>http://demo.hot-themes.com/joomla/paradise/index.php/darts-tournments</link>
+			<guid isPermaLink="true">http://demo.hot-themes.com/joomla/paradise/index.php/darts-tournments</guid>
+			<description><![CDATA[<p><img src="http://demo.hot-themes.com/joomla/paradise/images/blog/darts.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+]]></description>
+			<category>Sport Activities</category>
+			<pubDate>Thu, 03 Mar 2016 09:52:00 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,116 @@
+/*------------------------------------------------------------------------
+# "Hot Paradise" - Commercial Joomla Template
+# Copyright (C) 2016 HotThemes. All Rights Reserved.
+# License: http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only
+# Author: HotThemes
+# Website: http://www.hotjoomlatemplates.com
+-------------------------------------------------------------------------*/
+
+/* This is a variant of default template style */
+
+.sparky_logo {
+	border-top: 10px solid #44d48f;	
+}
+
+a,
+.mnu_sidemenu > li > a:hover,
+.gallery-cell a:hover,
+.pricingrow a.btn:hover {
+	color: #44d48f;
+}
+
+.flickity-page-dots .dot.is-selected {
+	border-bottom: 3px solid #44d48f;
+}
+
+.mnu_topmenu ul,
+.mnu_topmenu li:hover,
+.mnu_topmenu li ul li:hover {
+    background:#44d48f;
+}
+
+.mnu_topmenu > li.active > a, .mnu_topmenu > li.active > span {
+    color:#44d48f !important;
+}
+
+.pricingrow a.btn {
+	background: url(../../images/custom/reserve_button_green.png) no-repeat;
+}
+
+h2.row_heading, .gallery-cell h2 {
+	background: url(../../images/custom/row_heading_bg_green.png) no-repeat;
+}
+
+.flickity-page-dots .dot.is-selected:nth-child(1) {
+	background: #fff url(../../images/custom/icon1_green.png) no-repeat center;
+}
+
+.flickity-page-dots .dot.is-selected:nth-child(2) {
+	background: #fff url(../../images/custom/icon2_green.png) no-repeat center;
+}
+
+.flickity-page-dots .dot.is-selected:nth-child(3) {
+	background: #fff url(../../images/custom/icon3_green.png) no-repeat center;
+}
+
+.flickity-page-dots .dot.is-selected:nth-child(4) {
+	background: #fff url(../../images/custom/icon4_green.png) no-repeat center;
+}
+
+.flickity-page-dots .dot.is-selected:nth-child(5) {
+	background: #fff url(../../images/custom/icon5_green.png) no-repeat center;
+}
+
+/* */
+
+.inputbox, input.required, textarea.required, .contentrow .search input.inputbox {
+	background-color: #ffffcf;
+	border: 1px solid #ffffcf;
+}
+
+.button, .btn {
+	border:3px solid #ffffcf;
+}
+
+.button:hover, .btn:hover {
+	background: #ffffcf;
+}
+
+.mnu_sidemenu > li {
+	border-bottom:1px solid #ffffcf;
+}
+
+.pricingrow {
+    background-color: #ffffcf;
+}
+
+.pricingrow li {
+    border-bottom: 1px solid #e8e86d;
+}
+
+.bottomrow h3,
+.mnu_bottommenu1 > li > a, .mnu_bottommenu2 > li > a, .mnu_bottommenu3 > li > a, .mnu_bottommenu4 > li > a {
+	color: #ffffcf;
+}
+
+.bottomrow li {
+    border-bottom: 1px solid #1C191F;
+}
+
+/* */
+
+.flickity-page-dots {
+    background: rgba(47, 41, 51, 0.95);
+}
+
+.bottomrow {
+	background-color: #2F2933;
+}
+
+.footerrow {
+	background-color: #1C191F;
+}
+
+.footerrow, .footerrow a {
+	color: #4a444e;
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Delicious Food</title>
+		<description><![CDATA[]]></description>
+		<link>http://demo.hot-themes.com/joomla/paradise/index.php/delicious-food</link>
+		<lastBuildDate>Tue, 18 Dec 2018 06:24:58 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://demo.hot-themes.com/joomla/paradise/index.php/delicious-food?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Main Restaurant</title>
+			<link>http://demo.hot-themes.com/joomla/paradise/index.php/main-restaurant</link>
+			<guid isPermaLink="true">http://demo.hot-themes.com/joomla/paradise/index.php/main-restaurant</guid>
+			<description><![CDATA[<p><img src="http://demo.hot-themes.com/joomla/paradise/images/blog/restaurant.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+]]></description>
+			<category>Delicious Food</category>
+			<pubDate>Thu, 03 Mar 2016 09:52:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Chinese Restaurant</title>
+			<link>http://demo.hot-themes.com/joomla/paradise/index.php/chinese-restaurant</link>
+			<guid isPermaLink="true">http://demo.hot-themes.com/joomla/paradise/index.php/chinese-restaurant</guid>
+			<description><![CDATA[<p><img src="http://demo.hot-themes.com/joomla/paradise/images/blog/chinese_restaurant.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+]]></description>
+			<category>Delicious Food</category>
+			<pubDate>Thu, 03 Mar 2016 09:52:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Pizzeria &amp; Italian Food</title>
+			<link>http://demo.hot-themes.com/joomla/paradise/index.php/pizzeria-italian-food</link>
+			<guid isPermaLink="true">http://demo.hot-themes.com/joomla/paradise/index.php/pizzeria-italian-food</guid>
+			<description><![CDATA[<p><img src="http://demo.hot-themes.com/joomla/paradise/images/blog/pizza.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+]]></description>
+			<category>Delicious Food</category>
+			<pubDate>Thu, 03 Mar 2016 09:52:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Fast Food &amp; Drink Bars</title>
+			<link>http://demo.hot-themes.com/joomla/paradise/index.php/fast-food-drink-bars</link>
+			<guid isPermaLink="true">http://demo.hot-themes.com/joomla/paradise/index.php/fast-food-drink-bars</guid>
+			<description><![CDATA[<p><img src="http://demo.hot-themes.com/joomla/paradise/images/blog/pancakes.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+]]></description>
+			<category>Delicious Food</category>
+			<pubDate>Thu, 03 Mar 2016 09:52:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>A La Cart Restaurants</title>
+			<link>http://demo.hot-themes.com/joomla/paradise/index.php/a-la-cart-restaurants</link>
+			<guid isPermaLink="true">http://demo.hot-themes.com/joomla/paradise/index.php/a-la-cart-restaurants</guid>
+			<description><![CDATA[<p><img src="http://demo.hot-themes.com/joomla/paradise/images/blog/restaurant.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+]]></description>
+			<category>Delicious Food</category>
+			<pubDate>Thu, 03 Mar 2016 09:52:00 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

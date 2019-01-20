@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Exotic Drinks</title>
+		<description><![CDATA[]]></description>
+		<link>http://demo.hot-themes.com/joomla/paradise/index.php/exotic-drinks</link>
+		<lastBuildDate>Tue, 18 Dec 2018 06:25:05 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://demo.hot-themes.com/joomla/paradise/index.php/exotic-drinks?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Local Organic Winery</title>
+			<link>http://demo.hot-themes.com/joomla/paradise/index.php/local-organic-winery</link>
+			<guid isPermaLink="true">http://demo.hot-themes.com/joomla/paradise/index.php/local-organic-winery</guid>
+			<description><![CDATA[<p><img src="http://demo.hot-themes.com/joomla/paradise/images/blog/wine.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+]]></description>
+			<category>Exotic Drinks</category>
+			<pubDate>Thu, 03 Mar 2016 09:52:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Variety of Beers</title>
+			<link>http://demo.hot-themes.com/joomla/paradise/index.php/variety-of-beers</link>
+			<guid isPermaLink="true">http://demo.hot-themes.com/joomla/paradise/index.php/variety-of-beers</guid>
+			<description><![CDATA[<p><img src="http://demo.hot-themes.com/joomla/paradise/images/blog/beer.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+]]></description>
+			<category>Exotic Drinks</category>
+			<pubDate>Thu, 03 Mar 2016 09:52:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>99 Exotic Coctails</title>
+			<link>http://demo.hot-themes.com/joomla/paradise/index.php/99-exotic-coctails</link>
+			<guid isPermaLink="true">http://demo.hot-themes.com/joomla/paradise/index.php/99-exotic-coctails</guid>
+			<description><![CDATA[<p><img src="http://demo.hot-themes.com/joomla/paradise/images/blog/cocktail.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+]]></description>
+			<category>Exotic Drinks</category>
+			<pubDate>Thu, 03 Mar 2016 09:52:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Pool &amp; Beach Service</title>
+			<link>http://demo.hot-themes.com/joomla/paradise/index.php/pool-beach-service</link>
+			<guid isPermaLink="true">http://demo.hot-themes.com/joomla/paradise/index.php/pool-beach-service</guid>
+			<description><![CDATA[<p><img src="http://demo.hot-themes.com/joomla/paradise/images/blog/pool.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+]]></description>
+			<category>Exotic Drinks</category>
+			<pubDate>Thu, 03 Mar 2016 09:52:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Night Bar</title>
+			<link>http://demo.hot-themes.com/joomla/paradise/index.php/night-bar</link>
+			<guid isPermaLink="true">http://demo.hot-themes.com/joomla/paradise/index.php/night-bar</guid>
+			<description><![CDATA[<p><img src="http://demo.hot-themes.com/joomla/paradise/images/blog/night_bar.jpg" /></p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+]]></description>
+			<category>Exotic Drinks</category>
+			<pubDate>Thu, 03 Mar 2016 09:52:00 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

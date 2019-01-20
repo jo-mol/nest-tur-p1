@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Exotic Drinks</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://demo.hot-themes.com"/>
+	<id>http://demo.hot-themes.com/joomla/paradise/index.php/exotic-drinks</id>
+	<updated>2018-12-18T06:25:06+00:00</updated>
+	<author>
+		<name>Hot Paradise</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://demo.hot-themes.com/joomla/paradise/index.php/exotic-drinks?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Local Organic Winery</title>
+		<link rel="alternate" type="text/html" href="http://demo.hot-themes.com/joomla/paradise/index.php/local-organic-winery"/>
+		<published>2016-03-03T09:52:00+00:00</published>
+		<updated>2016-03-03T09:52:00+00:00</updated>
+		<id>http://demo.hot-themes.com/joomla/paradise/index.php/local-organic-winery</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/blog/wine.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/blog/wine.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</content>
+		<category term="Exotic Drinks" />
+	</entry>
+	<entry>
+		<title>Variety of Beers</title>
+		<link rel="alternate" type="text/html" href="http://demo.hot-themes.com/joomla/paradise/index.php/variety-of-beers"/>
+		<published>2016-03-03T09:52:00+00:00</published>
+		<updated>2016-03-03T09:52:00+00:00</updated>
+		<id>http://demo.hot-themes.com/joomla/paradise/index.php/variety-of-beers</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/blog/beer.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/blog/beer.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</content>
+		<category term="Exotic Drinks" />
+	</entry>
+	<entry>
+		<title>99 Exotic Coctails</title>
+		<link rel="alternate" type="text/html" href="http://demo.hot-themes.com/joomla/paradise/index.php/99-exotic-coctails"/>
+		<published>2016-03-03T09:52:00+00:00</published>
+		<updated>2016-03-03T09:52:00+00:00</updated>
+		<id>http://demo.hot-themes.com/joomla/paradise/index.php/99-exotic-coctails</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/blog/cocktail.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/blog/cocktail.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</content>
+		<category term="Exotic Drinks" />
+	</entry>
+	<entry>
+		<title>Pool &amp; Beach Service</title>
+		<link rel="alternate" type="text/html" href="http://demo.hot-themes.com/joomla/paradise/index.php/pool-beach-service"/>
+		<published>2016-03-03T09:52:00+00:00</published>
+		<updated>2016-03-03T09:52:00+00:00</updated>
+		<id>http://demo.hot-themes.com/joomla/paradise/index.php/pool-beach-service</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/blog/pool.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/blog/pool.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</content>
+		<category term="Exotic Drinks" />
+	</entry>
+	<entry>
+		<title>Night Bar</title>
+		<link rel="alternate" type="text/html" href="http://demo.hot-themes.com/joomla/paradise/index.php/night-bar"/>
+		<published>2016-03-03T09:52:00+00:00</published>
+		<updated>2016-03-03T09:52:00+00:00</updated>
+		<id>http://demo.hot-themes.com/joomla/paradise/index.php/night-bar</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/blog/night_bar.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://demo.hot-themes.com/joomla/paradise/images/blog/night_bar.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor amet, consectetur adipisicing elit, sed do incididunt ut labore et dolore magna aliqua. Ut enim ad minim.&lt;/p&gt;
+</content>
+		<category term="Exotic Drinks" />
+	</entry>
+</feed>

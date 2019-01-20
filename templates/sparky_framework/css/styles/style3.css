@@ -1,0 +1,86 @@
+/*------------------------------------------------------------------------
+# "Hot Paradise" - Commercial Joomla Template
+# Copyright (C) 2016 HotThemes. All Rights Reserved.
+# License: http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only
+# Author: HotThemes
+# Website: http://www.hotjoomlatemplates.com
+-------------------------------------------------------------------------*/
+
+/* This is a variant of default template style */
+
+.sparky_logo {
+	border-top: 10px solid #44a7c7;
+	
+}
+
+a,
+.mnu_sidemenu > li > a:hover,
+.gallery-cell a:hover,
+.pricingrow a.btn:hover {
+	color: #44a7c7;
+}
+
+.flickity-page-dots .dot.is-selected {
+	border-bottom: 3px solid #44a7c7;
+}
+
+.mnu_topmenu ul,
+.mnu_topmenu li:hover,
+.mnu_topmenu li ul li:hover {
+    background:#44a7c7;
+}
+
+.mnu_topmenu > li.active > a, .mnu_topmenu > li.active > span {
+    color:#44a7c7 !important;
+}
+
+.pricingrow a.btn {
+	background: url(../../images/custom/reserve_button_blue.png) no-repeat;
+}
+
+h2.row_heading, .gallery-cell h2 {
+	background: url(../../images/custom/row_heading_bg_blue.png) no-repeat;
+}
+
+.flickity-page-dots .dot.is-selected:nth-child(1) {
+	background: #fff url(../../images/custom/icon1_blue.png) no-repeat center;
+}
+
+.flickity-page-dots .dot.is-selected:nth-child(2) {
+	background: #fff url(../../images/custom/icon2_blue.png) no-repeat center;
+}
+
+.flickity-page-dots .dot.is-selected:nth-child(3) {
+	background: #fff url(../../images/custom/icon3_blue.png) no-repeat center;
+}
+
+.flickity-page-dots .dot.is-selected:nth-child(4) {
+	background: #fff url(../../images/custom/icon4_blue.png) no-repeat center;
+}
+
+.flickity-page-dots .dot.is-selected:nth-child(5) {
+	background: #fff url(../../images/custom/icon5_blue.png) no-repeat center;
+}
+
+/* */
+
+.inputbox, input.required, textarea.required, .contentrow .search input.inputbox {
+	background-color: #f9f1e7;
+	border: 1px solid #f9f1e7;
+}
+
+.button, .btn {
+	border:3px solid #f9f1e7;
+}
+
+.button:hover, .btn:hover {
+	background: #f9f1e7;
+}
+
+.mnu_sidemenu > li {
+	border-bottom:1px solid #f9f1e7;
+}
+
+.sparky_row6 {
+    background-color: #f9f1e7;
+}
